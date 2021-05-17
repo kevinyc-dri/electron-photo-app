@@ -94,20 +94,15 @@
     "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
   },
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Kevin Choi",
+    "email": "kevinyoungchoi@gmail.com",
+    "url": "https://github.com/kevinyc-dri/electron-photo-app"
   },
   "contributors": [
     {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    },
-    {
-      "name": "John Tran",
-      "email": "jptran318@gmail.com",
-      "url": "https://github.com/jooohhn"
+      "name": "Kevin Choi",
+      "email": "kevinyoungchoi@gmail.com",
+      "url": "https://github.com/kevinyc-dri/electron-photo-app"
     }
   ],
   "license": "MIT",
@@ -247,12 +242,14 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001228",
     "electron-debug": "^3.1.0",
     "electron-log": "^4.2.4",
     "electron-updater": "^4.3.4",
     "history": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-easy-crop": "^3.3.3",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.5",
     "source-map-support": "^0.5.19"

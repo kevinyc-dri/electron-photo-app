@@ -36,7 +36,6 @@ const Hello = () => {
       </div>
     </div>
   );
-}
-
+};
 
 export default Hello;
