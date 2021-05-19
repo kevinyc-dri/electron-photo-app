@@ -1,13 +1,13 @@
-import React from 'react';
+import React from 'react'
 import {
   BrowserRouter as Router,
   Switch,
   Route,
   NavLink,
-} from 'react-router-dom';
+} from 'react-router-dom'
 import Photo from './components/Photos'
-import Hello from './components/Hello';
-import './App.global.css';
+import Hello from './components/Hello'
+import './App.global.css'
 
 export default function App() {
   return (
